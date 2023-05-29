@@ -9,5 +9,8 @@ Node.js command-line application that takes in user input to generate a logo. Th
 - `node index.js` to start the app
 - `npm run test` to run test (must have jest installed `npm i jest`)
 
+## Video Walkthrough
+[Google Drive File](https://drive.google.com/file/d/19FD4LpsiD1od9QxWqtk-oV3Z6U-jJyXG/view)
+
 ## Questions 
 [Email me](mailto:saniyya.mcclendon@gmail.com)
